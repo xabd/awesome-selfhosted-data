@@ -1,10 +1,10 @@
 name: PrivacyScanner
-website: https://github.com/xabd/PrivacyScanner
-source_code: https://github.com/xabd/PrivacyScanner
-description: Android app that scans installed applications and displays privacy-related information
-license: Apache-2.0
+website_url: https://github.com/xabd/PrivacyScanner
+source_code_url: https://github.com/xabd/PrivacyScanner
+description: Android app that scans installed applications and displays privacy-related information.
+licenses:
+  - Apache-2.0
 
 tags:
-  - Privacy
   - Security
-  - Android
+  - Monitoring
